@@ -3,8 +3,8 @@ main = "levelx-worker.js"
 compatibility_date = "2026-08-18"
 
 [vars]
-GITHUB_OWNER = "YOUR_GITHUB_USERNAME"
-GITHUB_REPO = "YOUR_REPOSITORY"
+GITHUB_OWNER = "kaykay5185-hash"
+GITHUB_REPO = "LevelXV2"
 GITHUB_BRANCH = "main"
 GITHUB_CSV_PATH = "levelx_database.csv"
-ALLOWED_ORIGIN = "https://YOUR_GITHUB_USERNAME.github.io"
+ALLOWED_ORIGIN = "https://kaykay5185-hash.github.io"
