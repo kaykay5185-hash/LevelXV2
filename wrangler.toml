@@ -1,0 +1,10 @@
+name = "levelx-api"
+main = "levelx-worker.js"
+compatibility_date = "2026-08-18"
+
+[vars]
+GITHUB_OWNER = "YOUR_GITHUB_USERNAME"
+GITHUB_REPO = "YOUR_REPOSITORY"
+GITHUB_BRANCH = "main"
+GITHUB_CSV_PATH = "levelx_database.csv"
+ALLOWED_ORIGIN = "https://YOUR_GITHUB_USERNAME.github.io"
